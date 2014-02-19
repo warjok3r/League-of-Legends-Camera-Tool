@@ -6,7 +6,9 @@ League of Legends Camera Tool - A tool to play with various camera functions in 
 Some videos of what it can do:
 
 Third Person - http://www.youtube.com/watch?v=LA-WP4RLUNM
+
 Fly camera - http://www.youtube.com/watch?v=28RH78R4Y1c
+
 Camera rotation - http://www.youtube.com/watch?v=7OHDdCaIJxg
 
 Can also:
