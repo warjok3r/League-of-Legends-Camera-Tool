@@ -15,7 +15,7 @@ namespace LCT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LCT());
+            Application.Run(new frmLCT());
         }
     }
 
