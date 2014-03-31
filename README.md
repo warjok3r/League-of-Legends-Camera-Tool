@@ -18,10 +18,8 @@ Can also:
 
 Info:
 ------
-Doesn't have signatures so won't work as a hack, just for educational use to see how the tool works.
 
-
-If you want a working build for game use check here:
+Latest build for game use check here:
 https://www.dropbox.com/sh/r3wr04yrz27v968/5ACZLgxd_U
 
 And get support here:
